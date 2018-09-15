@@ -18,6 +18,7 @@
     <color name="accent_device_default_700">#FFC107</color>
     <color name="accent_device_default_dark">#FFC107</color>
     <color name="accent_device_default_light">#FFC107</color>
+    <color name="accent_device_default_light_alpha">#66FFC107</color>
     <color name="material_deep_teal_200">#FFC107</color>
     <color name="material_deep_teal_500">#FFC107</color>
     <color name="notification_icon_bg_color">#FFC107</color>

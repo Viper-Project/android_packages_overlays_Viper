@@ -18,6 +18,7 @@
     <color name="accent_device_default_700">#673AB7</color>
     <color name="accent_device_default_dark">#673AB7</color>
     <color name="accent_device_default_light">#673AB7</color>
+    <color name="accent_device_default_light_alpha">#66673AB7</color>
     <color name="material_deep_teal_200">#673AB7</color>
     <color name="material_deep_teal_500">#673AB7</color>
     <color name="notification_icon_bg_color">#673AB7</color>
