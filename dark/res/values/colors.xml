@@ -47,4 +47,8 @@
     <color name="analog_clock_hand_hour_color">@*android:color/accent_device_default_light</color>
     <color name="analog_clock_hand_minute_color">#FFFFFF</color>
 
+    <!-- Shutdown/reboot dialog -->
+    <color name="shutdown_background">@*android:color/primary_device_default_dark</color>
+    <color name="shutdown_primary_text">@android:color/white</color>
+
 </resources>
